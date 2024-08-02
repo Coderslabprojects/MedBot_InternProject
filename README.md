@@ -1,5 +1,2 @@
-# Welcome to GitHub Desktop!
-
-This is your README. READMEs are where you can communicate what your project is and how to use it.
-
-Write your name on line 6, save it, and then head back to GitHub Desktop.
+# Real-Life-Healthcare-Chatbot-With-IBM-Cloud-Services-In-Python
+Build a Real Life Healthcare Chatbot With IBM Cloud Services In Python to diagnose a disease with symptoms and show information about the disease. Built a python script and integrated API Medic into it to predict disease based on symptoms, year of birth and gender. Then built a chatbot on IBM Cloud using IBM Watson Assistant by defining entities , action and their respective responses. Built a node to call API , finally added integration with webchat. Customised the chat UI. Deployed the chatbot on google sites by embedding code and published it to the web.
